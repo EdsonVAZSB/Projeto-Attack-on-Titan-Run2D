@@ -1,0 +1,4 @@
+repository "Attack on Titan Run(2D)_novo/Attack on Titan Run(2D)_novo@11270526861899@cloud"
+  path "/"
+    br "/main"
+    co "/main"
